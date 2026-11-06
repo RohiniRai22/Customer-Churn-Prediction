@@ -59,3 +59,11 @@ streamlit run app.py
 
 ## Project Status
 Machine Learning model development and Streamlit application completed. Deployment in progress.
+
+# Customer Churn Prediction
+
+## 🚀 Live Demo
+
+[Click here to use the Customer Churn Prediction App](https://customer-churn-prediction-i7avpcklhsxvwapzdzyzfb.streamlit.app/)
+
+
